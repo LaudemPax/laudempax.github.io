@@ -3,10 +3,10 @@
   <channel>
     <title>sudocode</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>https://y7kim.github.io/</link>
-    <atom:link href="https://y7kim.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 19 Apr 2020 18:57:22 +0800</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2020 18:57:22 +0800</lastBuildDate>
+    <link>https://sudocode.cc/</link>
+    <atom:link href="https://sudocode.cc/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 19 Apr 2020 19:04:25 +0800</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2020 19:04:25 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
@@ -70,8 +70,8 @@
    in the future if the website gains any kind of popularity but for now, check back often if anything I talked about interests you and I hope you come by again soon :)
 &lt;/p&gt;</description>
         <pubDate>Sat, 18 Apr 2020 00:00:00 +0800</pubDate>
-        <link>https://y7kim.github.io/misc/2020/04/18/hello-world/</link>
-        <guid isPermaLink="true">https://y7kim.github.io/misc/2020/04/18/hello-world/</guid>
+        <link>https://sudocode.cc/misc/2020/04/18/hello-world/</link>
+        <guid isPermaLink="true">https://sudocode.cc/misc/2020/04/18/hello-world/</guid>
         
         
         <category>Misc</category>
