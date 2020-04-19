@@ -875,4 +875,28 @@ body {
     webkit-tap-highlight-color: #16a085;
 }
 
+/* custom styles */
+
+.mx-auto{
+    margin-left: auto !important;
+    margin-right: auto !important;
+    float: none;
+}
+
+.blogpost-text {
+    font-size: 120%; 
+}
+
+.post-content {
+    margin-top: 50px;
+}
+
+.post-desc {
+    color: #707070;
+}
+
+.blogpost-subtitle {
+    font-size: 200%;
+    font-weight: bold;
+}
 
