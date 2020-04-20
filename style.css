@@ -900,3 +900,15 @@ body {
     font-weight: bold;
 }
 
+@media screen and (max-width: 450px) {
+    header .intro-text .intro-heading {
+      font-size: 40px;
+    }
+  }
+
+  @media screen and (max-width: 360px) {
+    header .intro-text .intro-heading {
+      font-size: 30px;
+    }
+  }
+

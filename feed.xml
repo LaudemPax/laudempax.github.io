@@ -5,9 +5,34 @@
     <description>Tech blog covering almost anything under the Computer Science related Sun</description>
     <link>https://sudocode.cc/</link>
     <atom:link href="https://sudocode.cc/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 19 Apr 2020 21:24:01 +0800</pubDate>
-    <lastBuildDate>Sun, 19 Apr 2020 21:24:01 +0800</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2020 17:20:29 +0800</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2020 17:20:29 +0800</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Unintelligent machine learning</title>
+        <description>&lt;p class=&quot;blogpost-text&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis eleifend lorem. Maecenas blandit posuere lacus, non gravida ex. Proin laoreet non arcu eget suscipit. Etiam at tristique magna. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean id turpis sed arcu vestibulum vehicula. Aenean condimentum magna id erat pretium, nec semper risus pretium. Vestibulum et tortor sit amet dui venenatis egestas sed vel tortor. Pellentesque eget risus non odio rutrum pulvinar. Curabitur ullamcorperblandit mauris, vitae porta erat fringilla et. Nam eleifend cursus ligula, eu porttitor neque volutpat eu.&lt;/p&gt;
+
+ &lt;p class=&quot;blogpost-text&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis eleifend lorem. Maecenas blandit posuere lacus, 
+      non gravida ex. Proin laoreet non arcu eget suscipit. Etiam at tristique magna. Lorem ipsum dolor sit amet
+      , consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
+        Aenean id turpis sed arcu vestibulum vehicula. Aenean condimentum magna id erat pretium, nec semper risus pretium. Vestibulum et tortor sit amet dui venenatis egestas sed vel tortor. Pellentesque eget risus non odio rutrum pulvinar. Curabitur ullamcorper
+         blandit mauris, vitae porta erat fringilla et. Nam eleifend cursus ligula, eu porttitor neque volutpat eu.&lt;/p&gt;
+
+      &lt;p class=&quot;blogpost-text&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In quis eleifend lorem. Maecenas blandit posuere lacus, 
+       non gravida ex. Proin laoreet non arcu eget suscipit. Etiam at tristique magna. Lorem ipsum dolor sit amet
+          , consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; 
+           Aenean id turpis sed arcu vestibulum vehicula. Aenean condimentum magna id erat pretium, nec semper risus pretium. Vestibulum et tortor sit amet dui venenatis egestas sed vel tortor. Pellentesque eget risus non odio rutrum pulvinar. Curabitur ullamcorper
+       blandit mauris, vitae porta erat fringilla et. Nam eleifend cursus ligula, eu porttitor neque volutpat eu.&lt;/p&gt;
+        </description>
+        <pubDate>Mon, 20 Apr 2020 00:00:00 +0800</pubDate>
+        <link>https://sudocode.cc/machine%20learning/2020/04/20/first-machine-learning/</link>
+        <guid isPermaLink="true">https://sudocode.cc/machine%20learning/2020/04/20/first-machine-learning/</guid>
+        
+        
+        <category>Machine Learning</category>
+        
+      </item>
     
       <item>
         <title>Hello World!</title>
