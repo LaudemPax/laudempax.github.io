@@ -900,6 +900,10 @@ body {
     font-weight: bold;
 }
 
+.comments{
+    margin-top: 50px;
+}
+
 @media screen and (max-width: 450px) {
     header .intro-text .intro-heading {
       font-size: 40px;
