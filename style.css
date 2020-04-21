@@ -916,3 +916,10 @@ body {
     }
   }
 
+  @media screen and (max-width: 770px) {
+    .comments {
+      margin-left: 12px;
+      margin-right: 12px;
+    }
+  }
+
